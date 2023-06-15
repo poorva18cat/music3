@@ -1,0 +1,21 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+.note{
+    font-size: 15px;
+    color: whitesmoke;
+}
+canvas{
+    padding: 10px;
+    border: 15px;
+    box-shadow:10px 10px 10px aquamarine;
+    margin: 10px;
+}
+.play{
+float: none;
+}
